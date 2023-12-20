@@ -13,7 +13,6 @@ def get_img_as_base64(file):
     return base64.b64encode(data).decode()
 
 
-img = get_img_as_base64("D:\\davl project\\2474773.jpg")
 
 page_bg_img = f"""
 <style>
@@ -24,8 +23,6 @@ background-position: top left;
 background-repeat: no-repeat;
 background-attachment: local;
 }}
-[data-testid="stSidebar"] > div:first-child {{
-background-image: url("data:image/png;base64,{img}");
 .slider {{
     color: white;
 }}
