@@ -30,8 +30,8 @@ The analysis results are presented in an interactive webpage built with Streamli
   <img src="ScreenShots/ip3.png" width="500"/>
 </p>
 <p float="left">
-  <img src="ScreenShots/ipl4.png" width="500" />
-  <img src="ScreenShots/ip5.png" width="500"/>
+  <img src="ScreenShots/ipl1.png" width="500" />
+  <img src="ScreenShots/ipl5.png" width="500"/>
 </p>
 To run the Streamlit app locally, use the following command:
 
