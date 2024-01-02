@@ -9,9 +9,6 @@ This project involves the analysis of ball-by-ball data from the Indian Premier 
 - [Streamlit Webpage](#streamlit-webpage)
 - [Power BI Dashboards](#power-bi-dashboards)
 - [Team Pages](#team-pages)
-- [Setup and Usage](#setup-and-usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
