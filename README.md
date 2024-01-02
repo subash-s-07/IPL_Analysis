@@ -39,4 +39,20 @@ Power BI dashboards have been integrated to provide a more comprehensive view of
   <img src="ScreenShots/IPL-10.jpg" width="500" />
   <img src="ScreenShots/IPL-11.jpg" width="500"/>
 </p>
+<p float="left">
+  <img src="ScreenShots/IPL-12.jpg" width="500" />
+  <img src="ScreenShots/IPL-13.jpg" width="500"/>
+</p>
+<p float="left">
+  <img src="ScreenShots/IPL-14.jpg" width="500" />
+  <img src="ScreenShots/IPL-15.jpg" width="500"/>
+</p>
+<p float="left">
+  <img src="ScreenShots/IPL-16.jpg" width="500" />
+  <img src="ScreenShots/IPL-17.jpg" width="500"/>
+</p>
+<p float="left">
+  <img src="ScreenShots/IPL-18.jpg" width="500" />
+  <img src="ScreenShots/IPL-19.jpg" width="500"/>
+</p>
 
