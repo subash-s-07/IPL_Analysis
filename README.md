@@ -25,7 +25,14 @@ The web scraping process involved extracting relevant information from the sourc
 ## Streamlit Webpage
 
 The analysis results are presented in an interactive webpage built with Streamlit. Each team has a dedicated page showcasing team-specific insights, player performance, and more. Users can explore the data using interactive widgets and visualizations.
-![](/ScreenShots/ipl1.png)
+<p float="left">
+  <img src="ScreenShots/ipl1.png" width="500" />
+  <img src="ScreenShots/ip3.png" width="500"/>
+</p>
+<p float="left">
+  <img src="ScreenShots/ipl4.png" width="500" />
+  <img src="ScreenShots/ip5.png" width="500"/>
+</p>
 To run the Streamlit app locally, use the following command:
 
 ```bash
