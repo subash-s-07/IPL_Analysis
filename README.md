@@ -9,6 +9,8 @@ This project involves the analysis of ball-by-ball data from the Indian Premier 
 - [Streamlit Webpage](#streamlit-webpage)
 - [Power BI Dashboards](#power-bi-dashboards)
 - [Team Pages](#team-pages)
+## To Visit the Webpage
+[Streamlit Page Link](https://iplanalysis-2022.streamlit.app/)
 
 ## Project Overview
 
@@ -22,22 +24,6 @@ The ball-by-ball data for IPL matches was collected from [source website] using 
 
 The web scraping process involved extracting relevant information from the source website. Python libraries such as BeautifulSoup and requests were used to scrape and parse the data. The scraped data was then cleaned and processed for further analysis.
 
-## Streamlit Webpage
-
-The analysis results are presented in an interactive webpage built with Streamlit. Each team has a dedicated page showcasing team-specific insights, player performance, and more. Users can explore the data using interactive widgets and visualizations.
-<p float="left">
-  <img src="ScreenShots/ipl1.png" width="500" />
-  <img src="ScreenShots/ip3.png" width="500"/>
-</p>
-<p float="left">
-  <img src="ScreenShots/ipl1.png" width="500" />
-  <img src="ScreenShots/ipl5.png" width="500"/>
-</p>
-To run the Streamlit app locally, use the following command:
-
-```bash
-streamlit run Home.py
-```
 ## Power BI Dashboards
 
 Power BI dashboards have been integrated to provide a more comprehensive view of the IPL data. The dashboards include additional visualizations and insights that complement the analysis done in Streamlit.
@@ -62,4 +48,19 @@ Power BI dashboards have been integrated to provide a more comprehensive view of
   <img src="ScreenShots/IPL-18.jpg" width="500" />
   <img src="ScreenShots/IPL-19.jpg" width="500"/>
 </p>
+## Streamlit Webpage
 
+The analysis results are presented in an interactive webpage built with Streamlit. Each team has a dedicated page showcasing team-specific insights, player performance, and more. Users can explore the data using interactive widgets and visualizations.
+<p float="left">
+  <img src="ScreenShots/ipl1.png" width="500" />
+  <img src="ScreenShots/ip3.png" width="500"/>
+</p>
+<p float="left">
+  <img src="ScreenShots/ipl2.png" width="500" />
+  <img src="ScreenShots/ipl5.png" width="500"/>
+</p>
+To run the Streamlit app locally, use the following command:
+
+```bash
+streamlit run Home.py
+```
