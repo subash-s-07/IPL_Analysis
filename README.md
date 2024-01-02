@@ -36,7 +36,7 @@ streamlit run Home.py
 Power BI dashboards have been integrated to provide a more comprehensive view of the IPL data. The dashboards include additional visualizations and insights that complement the analysis done in Streamlit.
 ## Team Pages
 <p float="left">
-  <img src="/ScreenShots/IPL-10.png" width="500" />
-  <img src="/ScreenShots/IPL-11.png" width="500"/>
+  <img src="ScreenShots/IPL-10.jpg" width="500" />
+  <img src="ScreenShots/IPL-11.jpg" width="500"/>
 </p>
 
